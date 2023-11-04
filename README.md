@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I'm currently studying Computer Science in Denmark and have a keen interest in all areas of software development. I aim to create code that's not just functional, but also well-structured and reliable. I enjoy tackling complex problems and value the ongoing learning this field offers.
+I'm a Computer Science student from Denmark, deeply invested in software development. I strive to write code that's clean, efficient, and reliable. I love solving tough problems and believe in continuously improving my skills.
 
-I believe in the power of teamwork and clear communication to achieve collective goals. I'm eager to support projects that have a positive impact, and I look forward to contributing my share to a dynamic team.
+In my work, I follow tried-and-true coding practices to ensure that my code is easy for others to read and maintain. It's important to me that what I build today can be easily understood and used by others tomorrow.
+
+I value teamwork and clear communication, and I'm ready to lend my efforts to projects that make a difference. I'm excited to learn from others and contribute to a team's success.
 
 **Languages and Tools:**  
 
