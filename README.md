@@ -8,7 +8,7 @@ I value teamwork and clear communication, and I'm ready to lend my efforts to pr
 
 **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,mysql,react,git,githubactions,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,dotnet,angular,react,sql)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 
