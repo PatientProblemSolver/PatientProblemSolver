@@ -12,4 +12,4 @@ I value teamwork and clear communication, and I'm ready to lend my efforts to pr
 
 ## 📫 Get in Touch
 
-- Email: [Send mail](mailto:pellevdahl@hotmail.com)
+- Email: [Send mail](mailto:cph-pd94@cphbusiness.dk)
